@@ -1,0 +1,15 @@
+{
+  "name": "typescript-envir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "20": "^3.1.9"
+  }
+}
